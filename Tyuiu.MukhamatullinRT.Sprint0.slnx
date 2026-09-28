@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.MukhamatullinRT.Sprint0.Task0.V0/Tyuiu.MukhamatullinRT.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.MukhamatullinRT.Sprint0.Task0.V0/Tyuiu.MukhamatullinRT.Sprint0.Task0.V0.csproj" Id="48b3cbdb-7466-4f12-9df2-fb25205599da" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MukhamatullinRT.Sprint0.Task1.V0/Tyuiu.MukhamatullinRT.Sprint0.Task1.V0.csproj" Id="e40ce2c6-d2f4-48a7-b6cd-13636d5ffde0" />
   </Folder>
 </Solution>
